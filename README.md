@@ -20,7 +20,7 @@ A OBI é uma competição de programação destinada a estudantes de todos os n�
 1. Clone este repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/seu-usuario/OBI_questoes.git
+git clone https://github.com/GuilhermmeDev/OBI_questoes.git
 ```
 2. Com [Python](https://www.python.org/downloads/) instalado no seu computador, entre no arquivo da solução (.py) e execute-o:
 ```bash
