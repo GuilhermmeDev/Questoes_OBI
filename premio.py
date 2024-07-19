@@ -5,7 +5,7 @@ P = int(input())
 D = int(input())
 B = int(input())
 
-pontos_P = P*1 
+pontos_P = P*1
 pontos_D = D*2
 pontos_B = B*3
 
